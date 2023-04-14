@@ -11,6 +11,7 @@ Index to keep track of examples in Angular.
 - [Localization](https://github.com/qulle/angular-localization)
 - [Browser Storage Services](https://github.com/qulle/angular-browser-storage-services)
 - [Global Error Handler](https://github.com/qulle/angular-global-error-handler)
+- [Load Balanced Node Names](https://github.com/qulle/angular-load-balanced-node-names)
 
 ## Author
 [Qulle](https://github.com/qulle/)
